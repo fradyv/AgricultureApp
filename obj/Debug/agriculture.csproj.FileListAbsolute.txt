@@ -1,0 +1,12 @@
+C:\Users\nadya\Documents\Kuliah\pemrograman lanjut\final project\agriculture\bin\Debug\agriculture.exe.config
+C:\Users\nadya\Documents\Kuliah\pemrograman lanjut\final project\agriculture\bin\Debug\agriculture.exe
+C:\Users\nadya\Documents\Kuliah\pemrograman lanjut\final project\agriculture\bin\Debug\agriculture.pdb
+C:\Users\nadya\Documents\Kuliah\pemrograman lanjut\final project\agriculture\obj\Debug\agriculture.csproj.AssemblyReference.cache
+C:\Users\nadya\Documents\Kuliah\pemrograman lanjut\final project\agriculture\obj\Debug\agriculture.FormAuth.resources
+C:\Users\nadya\Documents\Kuliah\pemrograman lanjut\final project\agriculture\obj\Debug\agriculture.FormMain.resources
+C:\Users\nadya\Documents\Kuliah\pemrograman lanjut\final project\agriculture\obj\Debug\agriculture.Properties.Resources.resources
+C:\Users\nadya\Documents\Kuliah\pemrograman lanjut\final project\agriculture\obj\Debug\agriculture.csproj.GenerateResource.cache
+C:\Users\nadya\Documents\Kuliah\pemrograman lanjut\final project\agriculture\obj\Debug\agriculture.csproj.CoreCompileInputs.cache
+C:\Users\nadya\Documents\Kuliah\pemrograman lanjut\final project\agriculture\obj\Debug\agriculture.exe
+C:\Users\nadya\Documents\Kuliah\pemrograman lanjut\final project\agriculture\obj\Debug\agriculture.pdb
+C:\Users\nadya\Documents\Kuliah\pemrograman lanjut\final project\agriculture\obj\Debug\agriculture.exe.config

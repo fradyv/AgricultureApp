@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nadya\\Documents\\Kuliah\\pemrograman lanjut\\final project\\agriculture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1478356F-A31A-4822-91DF-799E8B53F617}|agriculture.csproj|c:\\users\\nadya\\documents\\kuliah\\pemrograman lanjut\\final project\\agriculture\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1478356F-A31A-4822-91DF-799E8B53F617}|agriculture.csproj|solutionrelative:formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1478356F-A31A-4822-91DF-799E8B53F617}|agriculture.csproj|c:\\users\\nadya\\documents\\kuliah\\pemrograman lanjut\\final project\\agriculture\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1478356F-A31A-4822-91DF-799E8B53F617}|agriculture.csproj|solutionrelative:formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1478356F-A31A-4822-91DF-799E8B53F617}|agriculture.csproj|c:\\users\\nadya\\documents\\kuliah\\pemrograman lanjut\\final project\\agriculture\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1478356F-A31A-4822-91DF-799E8B53F617}|agriculture.csproj|solutionrelative:formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1478356F-A31A-4822-91DF-799E8B53F617}|agriculture.csproj|c:\\users\\nadya\\documents\\kuliah\\pemrograman lanjut\\final project\\agriculture\\formlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1478356F-A31A-4822-91DF-799E8B53F617}|agriculture.csproj|solutionrelative:formlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nadya\\Documents\\Kuliah\\pemrograman lanjut\\final project\\agriculture\\FormLogin.Designer.cs",
+              "RelativeDocumentMoniker": "FormLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\nadya\\Documents\\Kuliah\\pemrograman lanjut\\final project\\agriculture\\FormLogin.Designer.cs*",
+              "RelativeToolTip": "FormLogin.Designer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T14:59:55.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "C:\\Users\\nadya\\Documents\\Kuliah\\pemrograman lanjut\\final project\\agriculture\\FormLogin.cs",
+              "RelativeDocumentMoniker": "FormLogin.cs",
+              "ToolTip": "C:\\Users\\nadya\\Documents\\Kuliah\\pemrograman lanjut\\final project\\agriculture\\FormLogin.cs*",
+              "RelativeToolTip": "FormLogin.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T15:05:12.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nadya\\Documents\\Kuliah\\pemrograman lanjut\\final project\\agriculture\\FormMain.cs",
+              "RelativeDocumentMoniker": "FormMain.cs",
+              "ToolTip": "C:\\Users\\nadya\\Documents\\Kuliah\\pemrograman lanjut\\final project\\agriculture\\FormMain.cs [Design]",
+              "RelativeToolTip": "FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T14:59:40.246Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nadya\\Documents\\Kuliah\\pemrograman lanjut\\final project\\agriculture\\FormLogin.cs",
+              "RelativeDocumentMoniker": "FormLogin.cs",
+              "ToolTip": "C:\\Users\\nadya\\Documents\\Kuliah\\pemrograman lanjut\\final project\\agriculture\\FormLogin.cs [Design]*",
+              "RelativeToolTip": "FormLogin.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T14:53:33.708Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
